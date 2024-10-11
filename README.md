@@ -2,6 +2,9 @@
 DockerTrain on debian
 
 ---------------------------------------------------------------------------------------2024/10/11
+
+
+
 docker pull httpd    ---拉映像檔
 指令:  Host:container
 image-------->container
