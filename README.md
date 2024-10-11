@@ -110,4 +110,8 @@ CMD ["mysqld"]
 
 docker build -t mysql-image .
 
+docker images
 
+docker run -itd --name MySQL mysql-image
+
+docker ps
